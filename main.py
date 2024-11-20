@@ -1,3 +1,5 @@
+#########################################Created by Abdulwaheed Abdulmujeeb ########################################################
+
 from time import sleep
 import pygame
 import random
@@ -84,3 +86,5 @@ def start_scheduler(name, start_time, end_time):
 if __name__ == "__main__":
     # Start the scheduler
     scheduler = start_scheduler("time to play", "2024-08-29 04:13:00", "2024-08-29 04:13:40")
+
+#########################################Created by Abdulwaheed Abdulmujeeb ########################################################
